@@ -6,6 +6,7 @@ __Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology 
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
+February 15th | Lab Meeting | Keim 264 | 2 pm | Sal 
 ~~September 5th~~ | ~~Lab Meeting - Practice Talk~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Eddie~~
 ~~September 12th~~ | ~~NO Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Everyone~~
 ~~September 19th~~ | ~~Lab Meeting~~ | ~~Plant Sciences Room 406~~ | ~~9 am~~ | ~~Thais~~
