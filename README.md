@@ -1,7 +1,9 @@
-# Managed_Ecosystem_Working_Group
+# Managed Ecosystem Working Group
 
+## WHO & WHAT
 Joint Lab meeting of the Drijber, Herr, Awada (and who ever else is interested in being involved) Lab Groups.
 
+## WHEN & WHERE
 __Lab meeting: Fridays, 2 to 3 pm, Keim room 264 unless otherwise noted.__
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
