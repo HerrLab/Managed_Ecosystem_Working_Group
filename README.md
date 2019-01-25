@@ -1,8 +1,8 @@
 # Managed_Ecosystem_Working_Group
 
-## __LAB MEETING__
+Joint Lab meeting of the Drijber, Herr, Awada (and who ever else is interested in being involved) Lab Groups.
 
-__Lab meeting: Wednesdays, 9 to 10 am, PLANT SCIENCES ROOM 406 (Plant Pathology Department Conference Room) unless otherwise noted. Since we are busy, we'll try to keep lab meeting to one hour.__
+__Lab meeting: Fridays, 2 to 3 pm, Keim room 264 unless otherwise noted.__
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
