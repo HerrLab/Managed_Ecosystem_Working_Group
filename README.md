@@ -9,10 +9,10 @@ __Lab meeting: Fridays, 2 to 3 pm, Keim room 264 unless otherwise noted.__
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~January 25th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Everyone~~
-February 1st | Lab Meeting | Keim 264 | 2 pm | Ashley
+~~February 1st~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Ashley~~
 February 8th | Lab Meeting | Keim 264 | 2 pm | Ben
 February 15th | Lab Meeting | Keim 264 | 2 pm | Sal 
-February 22nd | Lab Meeting | Keim 264 | 2 pm | 
+February 22nd | Lab Meeting | Keim 264 | 2 pm | Rhae (unless puppies are being born!)
 March 1st | Lab Meeting | Keim 264 | 2 pm | 
 March 8th | Lab Meeting | Keim 264 | 2 pm | 
 March 15th | Lab Meeting | Keim 264 | 2 pm | Josh
