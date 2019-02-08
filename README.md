@@ -16,10 +16,9 @@ February 22nd | Lab Meeting | Keim 264 | 2 pm | Rhae (unless puppies are being b
 March 1st | Lab Meeting | Keim 264 | 2 pm | 
 March 8th | Lab Meeting | Keim 264 | 2 pm | 
 March 15th | Lab Meeting | Keim 264 | 2 pm | Josh
-March 22nd | Lab Meeting | Keim 264 | 2 pm | Spring Break? Thais?
-March 29th | Lab Meeting | Keim 264 | 2 pm | Thais?
-April 5th | Lab Meeting | Keim 264 | 2 pm | 
-April 12th | Lab Meeting | Keim 264 | 2 pm | 
-April 19th | Lab Meeting | Keim 264 | 2 pm | 
+March 22nd | Lab Meeting | Keim 264 | 2 pm | No Meeting! Spring Break!
+March 29th | Lab Meeting | Keim 264 | 2 pm | Thais
+April 5th | Lab Meeting | Keim 264 | 2 pm | Morgan
+April 12th | Lab Meeting | Keim 264 | 2 pm | Sal
+April 19th | Lab Meeting | Keim 264 | 2 pm | Julie
 April 26th | Lab Meeting | Keim 264 | 2 pm | 
-May 3rd | Lab Meeting | Keim 264 | 2 pm | 
