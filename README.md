@@ -11,8 +11,8 @@ __Lab meeting: Fridays, 2 to 3 pm, Keim Room 264 unless otherwise noted.__
 ~~January 25th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Everyone~~
 ~~February 1st~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Ashley~~
 ~~February 8th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Ben~~
-February 15th | Lab Meeting | Keim 264 | 2 pm | Sal 
-February 22nd | Lab Meeting | Keim 264 | 2 pm | Rhae (unless puppies are being born!)
+~~February 15th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Sal~~ 
+~~February 22nd~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~NO MEETING - PUPPIES!~~
 March 1st | Lab Meeting | Keim 264 | 2 pm | 
 March 8th | Lab Meeting | Keim 264 | 2 pm | 
 March 15th | Lab Meeting | Keim 264 | 2 pm | Josh
@@ -21,4 +21,4 @@ March 29th | Lab Meeting | Keim 264 | 2 pm | Thais
 April 5th | Lab Meeting | Keim 264 | 2 pm | Morgan
 April 12th | Lab Meeting | Keim 264 | 2 pm | Sal
 April 19th | Lab Meeting | Keim 264 | 2 pm | Julie
-April 26th | Lab Meeting | Keim 264 | 2 pm | 
+April 26th | Lab Meeting | Keim 264 | 2 pm | SPRING HAPPY HOUR?
