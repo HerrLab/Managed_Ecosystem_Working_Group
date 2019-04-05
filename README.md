@@ -13,7 +13,6 @@ __Lab meeting: Fridays, 2 to 3 pm, Keim Room 264 unless otherwise noted.__
 ~~February 8th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Ben~~
 ~~February 15th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Sal~~ 
 ~~February 22nd~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~NO MEETING - PUPPIES!~~
-<<<<<<< HEAD
 ~~March 1st~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~TBA~~
 ~~March 8th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~TBA~~
 ~~March 15th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Josh~~
