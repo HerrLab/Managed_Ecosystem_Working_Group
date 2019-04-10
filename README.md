@@ -20,5 +20,5 @@ __Lab meeting: Fridays, 2 to 3 pm, Keim Room 264 unless otherwise noted.__
 ~~March 29th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Thais~~
 ~~April 5th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Morgan~~
 April 12th | Lab Meeting | Keim 264 | 2 pm | Sal
-April 19th | Lab Meeting | Keim 264 | 2 pm | Julie
-April 26th | Lab Meeting | Keim 264 | 2 pm | Josh will talk first and then SPRING HAPPY HOUR!
+April 19th | Lab Meeting | Keim 264 | 2 pm | Josh - then SPRING HAPPY HOUR social event!?!
+April 26th | Lab Meeting | Keim 264 | 2 pm | Julie
