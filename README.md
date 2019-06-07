@@ -8,8 +8,8 @@ __Lab meeting: Fridays, 2 to 3 pm, Keim Room 264 unless otherwise noted.__
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
-May 17th | Lab Meeting | Keim 264 | 2 pm | Sal
-May 31st | Lab Meeting | Keim 264 | 2 pm | Ashley
+~~May 17th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Ashley~~
+June 7th | Lab Meeting | Keim 264 | 2 pm | Sal
 June 14th | Lab Meeting | Keim 264 | 2 pm | Julie
 June 28th | Lab Meeting | Keim 264 | 2 pm | Morgan & Ashley
 July 19th | Lab Meeting | Keim 264 | 2 pm | Ben
