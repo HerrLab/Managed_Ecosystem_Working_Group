@@ -13,5 +13,5 @@ __Lab meeting: Fridays, 2 to 3 pm, Keim Room 264 unless otherwise noted.__
 ~~June 14th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Julie~~
 ~~June 28th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Morgan & Ashley~~
 ~~July 19th~~ | ~~Lab Meeting~~ | ~~Keim 264~~ | ~~2 pm~~ | ~~Ben~~
-July 26th | Lab Meeting | Keim 264 | 2 pm | Lipid Chapter Methods (Rhae & Liz)
+August 2nd | Lab Meeting | Keim 264 | 2 pm | Lipid Chapter Methods (Rhae & Liz)
 August 9th | Lab Meeting | Keim 264 | 2 pm | Josh
