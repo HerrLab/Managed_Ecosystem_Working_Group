@@ -8,7 +8,7 @@ __Lab meeting: TBA, unless otherwise noted.__
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
-TBA | Lab Meeting | TBA | TBA | TBA
+September 13th | Lab Meeting | 264 Keim | 2 pm | Josh
 TBA | Lab Meeting | TBA | TBA | TBA
 TBA | Lab Meeting | TBA | TBA | TBA
 TBA | Lab Meeting | TBA | TBA | TBA
