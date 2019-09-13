@@ -16,8 +16,8 @@ TBA | Lab Meeting | TBA | TBA | TBA
 TBA | Lab Meeting | TBA | TBA | TBA
 TBA | Lab Meeting | TBA | TBA | TBA
 TBA | Lab Meeting | TBA | TBA | TBA
-TBA | Lab Meeting | TBA | TBA | TBA
-TBA | Lab Meeting | TBA | TBA | TBA
+November 1st | Lab Meeting - San Antonio Preperation | TBA | 2 pm to 3:30 pm | Ashley & Morgan & Sal
+November 8th | Lab Meeting | TBA | 2 pm | Erin
 TBA | Lab Meeting | TBA | TBA | TBA
 TBA | Lab Meeting | TBA | TBA | TBA
 TBA | Lab Meeting | TBA | TBA | TBA
