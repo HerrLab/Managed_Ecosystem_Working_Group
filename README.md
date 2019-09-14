@@ -10,7 +10,7 @@ __Lab meeting: Keim Room 264, unless otherwise noted.__
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~September 13th~~ | ~~Lab Meeting~~ | ~~264 Keim~~ | ~~2 pm~~ | ~~Josh~~
 September 20th | Lab Meeting | 264 Keim | 2 pm | Rhae & Morgan - Mycorrhizae Chapter
-September 27th | CANCELLED | CANCELLED | CANCELLED | CANCELLED
+September 27th | NO MEETING - Most people not around this week | NO MEETING | NO MEETING | NO MEETING
 October 4th | Lab Meeting | 264 Keim | 2 pm | Rachel
 October 11th | Entomology Departmental Seminar | __TBA__ | __11 am__ | Josh
 October 18th | Paper Discussion - Soil Organic Matter | 264 Keim | 2 pm | Rhae
