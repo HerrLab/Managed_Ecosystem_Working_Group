@@ -9,7 +9,6 @@ __Lab meeting: Keim Room 264, unless otherwise noted.__
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~September 13th~~ | ~~Lab Meeting~~ | ~~264 Keim~~ | ~~2 pm~~ | ~~Josh~~
-September 20th | Lab Meeting | 264 Keim | 2 pm | Rhae & Morgan - Mycorrhizae Chapter
 September 27th | NO MEETING - Most people not around this week | NO MEETING | NO MEETING | NO MEETING
 October 4th | Lab Meeting | 264 Keim | 2 pm | Rachel
 October 11th | Entomology Departmental Seminar | __TBA__ | __11 am__ | Josh
@@ -22,3 +21,10 @@ November 22nd | Lab Meeting | 264 Keim | 2 pm | Emma
 November 29th | NO MEETING - THANKSGIVING | NO MEETING | NO MEETING | NO MEETING
 December 6th | Lab Meeting | 264 Keim | 2 pm | Julie
 December 13th | Paper Discussion - TOPIC TBD | 264 Keim | 2 pm | TBA
+
+
+TO BE RESCHEDULED:
+
+**DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
+:-----:|:-----:|:-----:|:-----:|:-----:
+September 20th | Lab Meeting | 264 Keim | 2 pm | Rhae & Morgan - Mycorrhizae Chapter
