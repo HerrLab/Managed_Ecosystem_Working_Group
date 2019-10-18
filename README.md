@@ -9,10 +9,10 @@ __Lab meeting: Keim Room 264, unless otherwise noted.__
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
 :-----:|:-----:|:-----:|:-----:|:-----:
 ~~September 13th~~ | ~~Lab Meeting~~ | ~~264 Keim~~ | ~~2 pm~~ | ~~Josh~~
-September 20th | Lab Meeting | 264 Keim | 2 pm | TBA
-September 27th | NO MEETING - Most people not around this week | NO MEETING | NO MEETING | NO MEETING
-October 4th | Lab Meeting | 264 Keim | 2 pm | Rhae & Morgan - Mycorrhizae Chapter
-October 11th | Entomology Departmental Seminar | __TBA__ | __11 am__ | Josh
+~~September 20th~~ | ~~Lab Meeting~~ | ~~264 Keim~~ | ~~2 pm~~ | ~~TBA~~
+~~September 27th~~ | ~~NO MEETING - Most people not around this week~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~
+~~October 4th~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~
+~~October 11th~~ | ~~Entomology Departmental Seminar~~ | ~~TBA~~ | ~~11 am~~ | ~~Josh~~
 October 18th | Paper Discussion - Soil Organic Matter | 264 Keim | 2 pm | Rhae
 October 25th | Paper Discussion - Metagenomics - what does it all mean? | 264 Keim | 2 pm | Josh
 November 1st | Lab Meeting - San Antonio Preperation | 264 Keim | 2 pm to 3:30 pm | Ashley & Morgan & Sal
