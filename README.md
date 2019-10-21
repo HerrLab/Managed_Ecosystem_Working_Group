@@ -13,7 +13,7 @@ __Lab meeting: Keim Room 264, unless otherwise noted.__
 ~~September 27th~~ | ~~NO MEETING - Most people not around this week~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~
 ~~October 4th~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~
 ~~October 11th~~ | ~~Entomology Departmental Seminar~~ | ~~TBA~~ | ~~11 am~~ | ~~Josh~~
-October 18th | Paper Discussion - Soil Organic Matter | 264 Keim | 2 pm | Rhae
+~~October 18th~~ | ~~Paper Discussion~~ | ~~264 Keim~~ | ~~2 pm~~ | ~~Morgan~~
 October 25th | Paper Discussion - Metagenomics - what does it all mean? | 264 Keim | 2 pm | Josh
 November 1st | Lab Meeting - San Antonio Preperation | 264 Keim | 2 pm to 3:30 pm | Ashley & Morgan & Sal
 November 8th | Lab Meeting | 264 Keim | 2 pm | Erin
