@@ -14,7 +14,7 @@ __Lab meeting: Keim Room 264, unless otherwise noted.__
 ~~October 4th~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~ | ~~NO MEETING~~
 ~~October 11th~~ | ~~Entomology Departmental Seminar~~ | ~~TBA~~ | ~~11 am~~ | ~~Josh~~
 ~~October 18th~~ | ~~Paper Discussion~~ | ~~264 Keim~~ | ~~2 pm~~ | ~~Morgan~~
-October 25th | Paper Discussion - Metagenomics - what does it all mean? | 264 Keim | 2 pm | Josh
+~~October 25th~~ | ~~Paper Discussion~~ | ~~264 Keim~~ | ~~2 pm~~ | ~~Josh~~
 November 1st | Lab Meeting - San Antonio Preperation | 264 Keim | 2 pm to 3:30 pm | Ashley & Morgan & Sal
 November 8th | Lab Meeting | 264 Keim | 2 pm | Erin
 November 15th | Lab Meeting | Paper Discussion - TOPIC TBD | 264 Keim | Rachel
@@ -25,5 +25,5 @@ December 13th | Lab Meeting | 264 Keim | 2 pm | Rachel and/or Thais
 
 OPEN IDEAS:
 
-1. Josh is presenting earlier in the day on October 11th, do we still want to meet at 2 pm? 
-2. Do we want to have a social event - such as a gathering the week of Thanksgiving?
+1. Do we want to have a social event - such as a gathering the week of Thanksgiving?
+2. ~~Josh is presenting earlier in the day on October 11th, do we still want to meet at 2 pm?~~ 
